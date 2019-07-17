@@ -1,5 +1,5 @@
 <!--pages/user/user.wxml-->
-<view>
+<view class="main">
   <view class="header">
     <image src="{{thumb}}" class="thumb"></image>
     <text class="nickname">{{nickname}}</text>
@@ -32,5 +32,7 @@
             </view>
         </view>
     </view>
-
+  <!-- <view >
+  <button open-type="getUserInfo">获取用户授权信息</button>
+  </view> -->
 </view>

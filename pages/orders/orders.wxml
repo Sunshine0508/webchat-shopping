@@ -1,10 +1,10 @@
 <!--pages/orders/orders.wxml-->
 <view class="main">
   <navigator url="../address/address">
-    <view wx:if="{{hasAddress}}">
-      <text class="orders-address-name">收获人：{{addess.name}}</text>
-      <text class="orders-address-phone">电话：{{addess.phone}}</text>
-      <text class="orders-address-detail">{{addess.detail}}</text>
+    <view wx:if="{{hasAddress}}" class="orders-address">
+      <text class="orders-address-name">收货人: {{address.name}}</text>
+      <text class="orders-address-phone">电话: {{address.phone}}</text>
+      <view class="orders-address-detail">{{address.detail}}</view>
     </view>
     <view wx:else class="orders-no-address">添加收获地址</view>
   </navigator>

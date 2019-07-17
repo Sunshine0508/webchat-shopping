@@ -22,14 +22,13 @@ Page({
      */
     wx.getUserInfo({
       success:function(res){
-        console.log(res)
         self.setData({
           thumb:res.userInfo.avatarUrl,
           nickname:res.userInfo.nickName
         })
       },
-      fail:function(err){
-        console.log(`err----${JSON.stringify(err)}`)
+      fail:function(){
+        console.log("授权失败")
       }
     })
     /**

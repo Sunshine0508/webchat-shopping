@@ -16,12 +16,12 @@
 - [x] 地址管理
 
 ## 实现效果
-![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/1.png) 
-![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/2.png) 
-![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/3.png) 
-![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/4.png) 
-![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/5.png) 
-![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/6.png) 
+![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/1.jpg) 
+![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/2.jpg) 
+![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/3.jpg) 
+![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/4.jpg) 
+![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/5.jpg) 
+![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/6.jpg) 
 
 ## 运行
 需要安装有微信开发者工具。

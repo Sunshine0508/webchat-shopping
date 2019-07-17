@@ -27,6 +27,9 @@ Page({
           thumb:res.userInfo.avatarUrl,
           nickname:res.userInfo.nickName
         })
+      },
+      fail:function(err){
+        console.log(`err----${JSON.stringify(err)}`)
       }
     })
     /**

@@ -9,10 +9,12 @@
   </swiper>
 
   <view class="search">
-    <view class="search-text">
-      <icon type="search" size="14"></icon>
-      搜 索
-    </view>
+    <navigator url="../search/search">
+      <view class="search-text">
+        <icon class="weui-icon-search_in-box search-icon"  type="search" size="14"></icon>
+        搜 索
+      </view>
+    </navigator>
   </view>
 
   <view class="selected">

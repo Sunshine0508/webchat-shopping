@@ -1,4 +1,4 @@
-﻿#webchat-shopping
+#webchat-shopping
 微信小程序 商城
 
 ##前言
@@ -14,6 +14,14 @@
 - [x] 商品详情
 - [x] 订单
 - [x] 地址管理
+
+## 实现效果
+![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/1.png) 
+![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/2.png) 
+![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/3.png) 
+![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/4.png) 
+![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/5.png) 
+![image](https://github.com/Sunshine0508/webchat-shopping/blob/master/image/6.png) 
 
 ## 运行
 需要安装有微信开发者工具。
